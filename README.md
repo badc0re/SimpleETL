@@ -5,10 +5,12 @@ separate tasks.
 
 How to start using:
 
-'''pip install luigi
-'''
+```
+pip install luigi
+```
 
-''' PYTHONPATH='' luigi --module etl ProviderRefinery
-'''
+```
+PYTHONPATH='' luigi --module etl ProviderRefinery
+```
 
 
